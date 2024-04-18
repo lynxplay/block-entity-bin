@@ -1,0 +1,5 @@
+name: "BlockEntityBin"
+main: "dev.lynxplay.paper.beb.BlockEntityBinPlugin"
+version: "1.0.0"
+load: "STARTUP"
+api-version: "1.20"
