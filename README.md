@@ -10,7 +10,7 @@
 > Block Entity Bin messes with your world data.
 > Take extensive backups of your server, specifically your worlds, before installing it.
 
-1) Grab the latest jar from the project's release page.
+1) Grab the latest jar from the project's [release page](https://github.com/lynxplay/block-entity-bin/releases).
 2) Move it into your servers `plugins/` directory.
 3) Start your server.
 4) (Optionally)  
@@ -20,3 +20,7 @@
    for the plugin to process them.
 5) Stop your server and remove the plugin from the `plugins/` folder.
 6) You are done 🎉
+
+> [!TIP]
+> The Block Entity Bin plugin is ment for single usage.
+> Remove it from the server after all affected worlds were processed!
